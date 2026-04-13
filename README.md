@@ -14,7 +14,7 @@ Mechatronics Engineering graduate with extensive programming expertise in **Pyth
 - 👯 **Looking to collaborate on:** AI/ML projects in Computer Vision, NLP, Reinforcement Learning, Intelligent Systems, and Cybersecurity
 - 💡 **Core Expertise:** AI Programming, Data Engineering, Model Deployment, Automation, Engineering Design Thinking
 - 📫 **Reach me at:** abdulaziz602842@gmail.com
-- 📍 **Location:** Sanaa, Yemen
+- 📍 **Location:** Yemen
 - 💼 **LinkedIn:** [Abdulaziz Ahmed Hawaej](https://www.linkedin.com/in/abdulaziz-ahmed-hawaej-a670161b1)
 - 🌐 **Portfolio:** [github.com/Azzoz-189](https://www.github.com/Azzoz-189)
 
