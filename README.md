@@ -7,12 +7,12 @@
 
 ### 🎯 About Me
 
-Mechatronics Engineering graduate with extensive programming expertise in **Python, C/C++, and Rust**. Nearly **3 years of hands-on experience** in AI/ML applications, Intelligent Systems, and Industrial Automation. Currently working as an AI/ML Engineer, specializing in Deep Learning, Computer Vision, NLP, and MLOps. Passionate about bridging hardware intelligence with cutting-edge AI solutions for Industry 4.0.
+Mechatronics Engineering graduate with extensive programming expertise in **Python, C/C++, and Rust**. Nearly **3 years of hands-on experience** in AI/ML applications, Intelligent Systems, and Industrial Automation. Currently working as an AI/ML Engineer at DeepSafer, responsible for the complete ML lifecycle—from research and data engineering to model training, evaluation, and deployment for IT security services including anomaly detection and malware analysis. Passionate about bridging hardware intelligence with cutting-edge AI solutions for Industry 4.0 and cybersecurity.
 
-- 🔭 **Currently working on:** ML & DL Models for Anomaly Detection, Malware Detection, and Model Optimization with ONNX & Hummingbird-ml
+- 🔭 **Currently working on:** End-to-end ML/DL model lifecycle for Anomaly Detection and Windows-PE Malware Detection at DeepSafer
 - 🌱 **Currently learning:** AI Agents, LLMs, Agentic AI Development, Advanced MLOps practices
-- 👯 **Looking to collaborate on:** AI/ML projects in Computer Vision, NLP, Reinforcement Learning, and Intelligent Systems
-- 💡 **Core Expertise:** AI Programming, Data Analytics, Model Deployment, Automation, Engineering Design Thinking
+- 👯 **Looking to collaborate on:** AI/ML projects in Computer Vision, NLP, Reinforcement Learning, Intelligent Systems, and Cybersecurity
+- 💡 **Core Expertise:** AI Programming, Data Engineering, Model Deployment, Automation, Engineering Design Thinking
 - 📫 **Reach me at:** abdulaziz602842@gmail.com
 - 📍 **Location:** Sanaa, Yemen
 - 💼 **LinkedIn:** [Abdulaziz Ahmed Hawaej](https://www.linkedin.com/in/abdulaziz-ahmed-hawaej-a670161b1)
@@ -22,19 +22,36 @@ Mechatronics Engineering graduate with extensive programming expertise in **Pyth
 
 ### 🏆 Education
 
-**Bachelor of Engineering in Mechatronics** | Sana'a University, Yemen (2023)
-- GPA: 76.64
-- Key Coursework: Applied Mathematics, Data Acquisition, Statistical Quality Control, Control Engineering, Industrial Control and Automation, Mechatronics System Design, AI and Robotics Principles, Engineering Project Management
+**Bachelor of Engineering in Mechatronics** | Sana'a University, Yemen (2018 - 2023)
+- GPA: 76.64%
+- **Focus:** Mechatronic Engineering, Robotics and Artificial Intelligence
+- **Key Coursework:** Computer Science Principles, Applied Math and Calculus, Mechatronic Systems Design, AI Principles & Algorithms, Robotics Principles, Engineering Project Management, Industrial & Occupational Safety Practices
 
 ---
 
 ### 💼 Professional Experience
 
-**AI/ML Engineer** | DeepSafer for Digital Solutions & AI, Sanaa, Yemen (May 2024 - Present)
-- Building ML & DL Models for Anomaly Detection and Static-Malware Detection
+**AI/ML Engineer** | DeepSafer for Digital Solutions & AI, Sanaa, Yemen (July 2024 - Present)
+- Building and preparing AI/ML models for IT security services including anomaly detection and Windows-PE malicious apps/files
+- Managing complete ML lifecycle: research, data collection, engineering, preparation, model training, evaluation, and deployment
 - Deploying models on IT Infrastructure with optimized performance using ONNX & Hummingbird-ml
 - Optimizing machine learning model performance with hyperparameter tuning techniques
 - Achieving improved accuracy and generalization capabilities in production environments
+
+**AI/ML Teaching Assistant** | Digital Science University (DSU), Sana'a, Yemen (November 2025 - December 2025)
+- Teaching Assistant in Artificial Intelligence and Machine Learning for Robotics & AI students (2 batches)
+- Instructed students in Python programming fundamentals (syntax, functions, OOP, basic algorithms)
+- Taught data analysis and preparation (NumPy, pandas, cleaning, handling missing values, visualization)
+- Guided feature engineering principles (scaling, encoding, feature selection, transformation)
+- Mentored ML model development and evaluation (classification, regression, train/validation/test splits, metrics)
+- Applied AI/ML theory to robotics-related projects connecting theory with real-world intelligent systems
+
+**Machine Learning Engineer** | Amazon Web Services (AWS), Remote (June 2023 - March 2025)
+- Developed and deployed ML models using AWS services (SageMaker, S3, Lambda Functions)
+- Applied reinforcement learning techniques for autonomous systems optimization
+
+**AI Developer** | Creative Point for Digital Solutions & AI, Sana'a, Yemen (May 2024 - July 2024)
+- Developed AI solutions and applications for digital transformation projects
 
 **Virtual Reinforcement Learning Engineering Competitor** | AWS-Amazon Web Services (June 2023 - October 2023)
 - **🏆 Achievement:** Won 3rd Yemeni Ranking, Top 10% Middle-East Ranking
@@ -42,10 +59,10 @@ Mechatronics Engineering graduate with extensive programming expertise in **Pyth
 - Engineered agent parameters (speed, velocity, distance, steering-angle) with optimized reward functions
 - Manipulated hyperparameters of RL models with OpenVino-micro-processor, LiDAR, ultrasonic, accelerometer, and encoder systems
 
-**Mechatronics Intern** | Arwa Mineral Water Co., Sana'a, Yemen (April 2023 - May 2023)
-- Applied mechanical, electrical, and control maintenance on production lines
-- Engineered and programmed PLC prototypes with control and I/O modules for troubleshooting
-- Performed sensor calibration, actuator testing, and control panel troubleshooting
+**Mechatronics Technician (Intern)** | Arwa Mineral Water Co., Sana'a, Yemen (March 2023 - April 2023)
+- Applied electrical and mechanical maintenance across factory facilities: Production Lines, Control Panels, Quality Control Lab, Power Plants, and Workshops
+- Performed PLC troubleshooting and configuration, Control Panels building and wiring
+- Gained hands-on experience in industrial automation and production line optimization
 
 ---
 
@@ -153,23 +170,42 @@ Mechatronics Engineering graduate with extensive programming expertise in **Pyth
 
 ### 📜 Certifications & Courses
 
-**AI/ML Certifications:**
-- **AI Programming with Python Nanodegree** - Udacity (Oct 2023 - Present)
+**AI/ML & Robotics Certifications:**
+- **Modern Robotics, Course 1: Foundations of Robot Motion** - Northwestern University (April 2025)
+- **AI Programming with Python Nanodegree** - Udacity (Oct 2023 - Jan 2024)
   - Python, Data Structures, NumPy, Pandas, Matplotlib, OOP, Neural Networks with PyTorch
+- **AWS Machine Learning Fundamentals** - Udacity (September 2024)
+- **AWS Machine Learning Engineer Nanodegree** - Udacity (May 2024 - Present)
+  - ML algorithms, Deep Learning, CNN, AWS SageMaker, S3, Lambda Functions
 - **AI Fundamentals** - DataCamp (Dec 2023 - Feb 2024)
   - AI, ML, LLMs, Generative AI, ChatGPT, AI Ethics
 - **OpenAI Fundamentals** - DataCamp (Jan 2024 - Mar 2024)
   - OpenAI API integration for chatbots, semantic search, recommendation systems
-- **AWS Machine Learning Engineer Nanodegree** - Udacity (May 2024 - Present)
-  - ML algorithms, Deep Learning, CNN, AWS SageMaker, S3, Lambda Functions
+
+**Professional Development:**
+- **Using Python for Automation** - LinkedIn (April 2024)
+- **Digital Manufacturing & Design** - University at Buffalo (SUNY) | Coursera (Feb 2023)
+- **Introduction to Design Thinking and Product Development** - Udemy (Aug 2022)
+- **Project Management** - Udemy (Aug 2022)
+
+**IT & Cybersecurity:**
+- **Wireless Network Security Certified Training** - Eskills Academy (Nov 2021)
+
+**Web Development & Programming:**
+- **Responsive Web Design** - Sololearn (Sep 2021)
+- **Javascript Tutorial** - SoloLearn (Jul 2020)
+- **HTML Fundamentals** - SoloLearn (Apr 2020)
+- **CSS Fundamentals** - SoloLearn (May 2020)
+- **C Tutorials** - SoloLearn (Apr 2020)
 
 **Engineering Certifications:**
-- **Design Thinking and Product Development Principles** - Udemy (2022)
-- **Project Management Principles** - Udemy (2022)
-- **Introduction to Industrial Networking** - RealPars Platform (2023)
 - **Industrial Automation Safety Basics** - Sana'a University (2023)
 - **PLC Troubleshooting Essentials** - RealPars Platform (2022)
 - **Industrial Sensors Fundamentals** - Sana'a University (2022)
+- **Introduction to Industrial Networking** - RealPars Platform (2023)
+
+**Language Proficiency:**
+- **English Proficiency Certificate** - Duolingo English Test (Feb 2026)
 
 ---
 
