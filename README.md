@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./linkin_prof.jpg" alt="Abdulaziz Hawaej - Professional Banner" width="100%" />
-</p>
-
+</p> -->
+![image](linkin_prof.jpg)
 <h1 align="center">Hi 👋, I'm Abdulaziz Ahmed Hawaej</h1>
 <h3 align="center">Mechatronics & Robotics Engineer | AI/ML Engineering Enthusiast | Data Science Practitioner</h3>
 
