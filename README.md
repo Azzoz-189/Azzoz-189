@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="linkin_prof.jpg" alt="Abdulaziz Hawaej - Professional Banner" width="100%" />
+  <img src="./linkin_prof.jpg" alt="Abdulaziz Hawaej - Professional Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdulaziz Ahmed Hawaej</h1>
