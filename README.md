@@ -6,7 +6,7 @@
 <h3 align="center">Mechatronics & Robotics Engineer | AI/ML Engineering Enthusiast | Data Science Practitioner | Intelligent Autonomous Systems Passionate</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azzoz-189&label=Profile%20views&color=0e75b6&style=flat" alt="azzoz-189" />
+  <img src="https://komarev.com/ghpvc/?username=azzoz-189&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views" />
 </p>
 
 ### 🎯 About Me
@@ -243,10 +243,10 @@ Mechatronics Engineering graduate with extensive programming expertise in **Pyth
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdulaziz-ahmed-hawaej-a670161b1" target="blank">
+  <a href="https://www.linkedin.com/in/abdulaziz-ahmed-hawaej-a670161b1" target="_blank" rel="noopener noreferrer" aria-label="Connect on LinkedIn">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:abdulaziz602842@gmail.com" target="blank">
+  <a href="mailto:abdulaziz602842@gmail.com" aria-label="Send an email">
     <img align="center" src="https://camo.githubusercontent.com/97fb99986357a184960934047c0d9365bd219eeae2a24f3e7a8b0e22c207398c/68747470733a2f2f7261772e6769746875622e636f6d2f466f6e74417765736f6d652f466f6e74417765736f6d652f6d61737465722f737667732f736f6c69642f656e76656c6f70652e737667" alt="Email" height="30" width="40" />
   </a>
 </p>
